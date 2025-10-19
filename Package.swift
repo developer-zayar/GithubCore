@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "GithubCore",
-            url: "https://github.com/developer-zayar/GithubCoreSDK/releases/download/v1.0.0/GithubCore.xcframework.zip",
-            checksum: "6346df74dff43616d20dba00289c3566305bbdda0e3a727b0780b8d98f28ae22"
+            url: "https://github.com/developer-zayar/GithubCoreSDK/releases/download/v1.1.0/GithubCore.xcframework.zip",
+            checksum: "cce4c3917e0de80c2485b6c49a46375b9a067e44b4d3b07e8857be039a379f37"
         )
     ]
 )
